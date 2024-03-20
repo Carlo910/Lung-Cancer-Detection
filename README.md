@@ -5,4 +5,4 @@ Details about the project's objectives and framework are available in the "Docs"
 
 The "FinalModel" document holds the definitive version of the Convolutional Neural Network (CNN) architecture that was presented upon the project's completion.
 
-For an overview of the challenge addressed by this project, our approach, and the outcomes we achieved, please view the explanatory video at this youtube link: (link)
+For an overview of the challenge addressed by this project, our approach, and the outcomes we achieved, please view the explanatory video at this youtube link: https://youtu.be/eJd1Gmxj8sI
